@@ -39,3 +39,4 @@ docker-compose kill
 ### MySQL
 
 Check out `app/index.php` for getting credentials from the ENV variables.
+# amazon-affiliate
